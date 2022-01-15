@@ -1,4 +1,4 @@
-# YT-Sc
+# YT-SC
 Youtube Music List Length Check and Move To Directory.
 
 # Programın Amacı
