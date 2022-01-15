@@ -1,4 +1,4 @@
-# YT-SC
+# Youtube Music Scraper and Directory Mover
 Youtube Music List Length Check and Move To Directory.
 
 # Programın Amacı
